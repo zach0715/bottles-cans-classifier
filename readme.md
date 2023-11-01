@@ -2,7 +2,7 @@
 
  Add short description of project here > 
 
-![image](https://drive.google.com/uc?export=view&id= 1-neSOMjQmyGkxSJAThSoXqOHt6m8vZCN)
+![image](https://drive.google.com/uc?export=view&id=1-neSOMjQmyGkxSJAThSoXqOHt6m8vZCN)
 
 
 
