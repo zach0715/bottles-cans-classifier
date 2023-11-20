@@ -11,8 +11,13 @@ This model is a bottle can classifier that helps tell you whether you are lookin
 
 ## Running this project
 
-1. download the model and the images that you want and put them in the model and data directories
+1. download the model and the images that you want and put them in a bottlecan sub-folder the model and data directories
 2. get into the jetson inference library (if you don't have it download it)
 3. change directories using ``` cd jetson-inference/python/training/classification ```
+4. set the variables ```NET=models/bottlecan```
+```DATASET=data/bottlecan```
+5. run the model using: ```imagenet.py --model=$NET/resnet18.onnx --input_blob=input_0 --output_blob=output_0 --labels=$DATASET/labels.txt $DATASET/bottle1.jpg bottle1_labeled.jpg```
+6. In visual studio scroll down until you find the image that you decided to use and click on it to see your results.
+
 
 [View a video explanation here](video link)
