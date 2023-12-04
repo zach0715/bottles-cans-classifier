@@ -20,4 +20,4 @@ This model is a bottle can classifier that helps tell you whether you are lookin
 6. In visual studio scroll down until you find the image that you decided to use and click on it to see your results.
 
 
-[View a video explanation here](video link)
+[View a video explanation here](https://drive.google.com/file/d/12r-GPiOd4q4D_3cTidHrvjlSWO1Nydsy/view?usp=sharing)
